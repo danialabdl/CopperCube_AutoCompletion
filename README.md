@@ -1,4 +1,4 @@
-# CopperCube_AutoCompletion
+# CopperCube_AutoCompletion for notepad++
 CopperCube game engine autocompletion xml file for notepad++.
 
 This file is Autocompletin file for notepad++ software. You can add this file to Auto completion folder of notepad++.
