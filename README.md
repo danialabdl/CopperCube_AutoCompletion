@@ -3,7 +3,9 @@
 
 
 CopperCube language and Auto Completion for notepad++ Code editor.for adding Copercube language to notepad++:
+
   +import the file in "UDL" Folder as a user defined language for notepad++
+  
   +place the file in "Autocompletion" folder into notepad++ Autocompletion folder
 
 
